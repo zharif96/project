@@ -29,7 +29,7 @@
     echo "<br>Assignment: " .$assigment;
     echo "<br>Group Assignment: " .$groupAssignment;
     echo "<br><br>Total    : " .$totalMarks ."/70";
-
+    echo "FuckOFF";
     ?>
   </body>
 </html>
